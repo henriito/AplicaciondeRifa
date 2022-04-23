@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicaciondeRifa", "AplicaciondeRifa\AplicaciondeRifa.csproj", "{B2CEC3AC-7A46-49C8-BEB8-833D2A0FB864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CEC3AC-7A46-49C8-BEB8-833D2A0FB864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CEC3AC-7A46-49C8-BEB8-833D2A0FB864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CEC3AC-7A46-49C8-BEB8-833D2A0FB864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CEC3AC-7A46-49C8-BEB8-833D2A0FB864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D906C7F-6C3C-4159-A991-767B60617863}
+	EndGlobalSection
+EndGlobal
